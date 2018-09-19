@@ -205,4 +205,4 @@ end
 #import "GPUImageWeakPixelInclusionFilter.h"
 ```
 > 下载之后进行pod install操作即可运行
->  本文同步至[个人博客](http://chuzhaozhi.cn/)、[简书]()、[掘金]()
+>  本文同步至[个人博客](http://chuzhaozhi.cn/)、[简书](https://www.jianshu.com/p/c5c5f806473c)、[掘金]()
